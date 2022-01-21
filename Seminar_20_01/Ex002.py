@@ -6,4 +6,4 @@ if number1 > number2:
 elif number1 == number2:
     print('Числа равны')
 else:
-    print(f'Большее число{number2}, меньшее {number1}')
+    print(f'Большее число {number2}, меньшее {number1}')

@@ -2,4 +2,4 @@
 print ('x y  F')
 for x in range (2):
     for y in range (2):
-        print(x, y, (not (x or y)) == (not x) and (not y))
+        print(x, y, (not (x or y) == ((not x) and (not y))))
